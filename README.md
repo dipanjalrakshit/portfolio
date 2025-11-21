@@ -20,6 +20,6 @@ This site is deployed using GitHub Pages via the `main` branch root.
 ## 📬 Contact
 **Dipanjal Rakshit**  
 Data Insights & Microfinance Analytics  
-LinkedIn: **
+LinkedIn: *www.linkedin.com/in/dipanjal-rakshit22*
 
 
